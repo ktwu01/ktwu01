@@ -1,4 +1,7 @@
-我会在 GitHub 存放大部分我的日常项目, 这里可以作为一个基本的 Index.
+Hey there! Welcome here. I pour my heart into every project I build, and GitHub is where I forge my dreams into reality — a living index of my relentless journey.
+
+各位客官们，欢迎来到这儿！我将每一个项目倾注全部热情，GitHub 是我把梦想锻造成现实的地方 —— 它记录着我不懈奋斗的旅程。
+
 
 <!---
 ## <ins>课程作业</ins>  /  Schoolwork
