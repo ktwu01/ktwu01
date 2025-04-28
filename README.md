@@ -1,5 +1,6 @@
-我会在 GitHub 公开存放大部分 USTC 课程作业 / 日常项目, 这里可以作为一个基本的 Index.
+我会在 GitHub 存放大部分我的日常项目, 这里可以作为一个基本的 Index.
 
+<!---
 ## <ins>课程作业</ins>  /  Schoolwork
 
 <details>
@@ -114,13 +115,12 @@
 
 </details>
 
+-->
 
 ## <ins>联系方式</ins>  /  Contact
 
 ```txt
-A&T -> @;
-D&T -> .;
-tiankaima A&T 163 D&T com
-tiankaima A&T ustclug D&T org
-TG A&T tiankaima
+A&&T -> @;
+D/&T -> .;
+ktwu A&&T utexas D/&T edu
 ```
