@@ -16,6 +16,7 @@ Hey there! Welcome here. I pour my heart into every project I build, and GitHub 
 </a>
 </div>
 
+<!--
 ---
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://xiaobot.net/p/ktwu01">
@@ -29,7 +30,7 @@ Hey there! Welcome here. I pour my heart into every project I build, and GitHub 
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
   </a>
 </div>
-
+-->
 
 ## <ins>联系方式</ins>  /  Contact
 
