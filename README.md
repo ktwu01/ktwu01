@@ -3,122 +3,33 @@ Hey there! Welcome here. I pour my heart into every project I build, and GitHub 
 各位客官们，欢迎来到这儿！我将每一个项目倾注全部热情，GitHub 是我把梦想锻造成现实的地方 —— 它记录着我不懈奋斗的旅程。
 
 
-<!---
-## <ins>课程作业</ins>  /  Schoolwork
+<div align="center" style="display:flex;flex-direction:row;">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ktwu01/count.svg?"  />
+</div>
 
-<details>
-<summary><ins>2024 春</ins>  /  2024 Spring</summary>
+<a href="https://github.com/ktwu01/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/ktwu01/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true&show_icons=true&theme=algolia&langs_count=8&hide=c%2B%2B,html,MATLAB" />
+</a>
+</div>
 
-- [MATH4002 算法基础](https://github.com/tiankaima/USTC_ALGO_24)
-- [DS3001 数据分析及实践](https://github.com/tiankaima/USTC_AD_24)
-- [001139 数学建模](https://github.com/tiankaima/USTC_MM_24)
-- [001065 计算机图形学](https://github.com/tiankaima/USTC_CG_24_HW)
-- [011119 人工智能基础](https://github.com/tiankaima/USTC_AI_24)
-- [Typst 笔记](https://github.com/tiankaima/typst-notes)
+---
+<div align="center" style="display:flex;flex-direction:column;">
+  <a href="https://xiaobot.net/p/ktwu01">
+    <img src="https://github.com/ktwu01/ktwu01/assets/7744664/8d6b77ff-745b-48e1-800c-4f7431a5fa78" alt="小报童" style="width:36% !important;">
+  </a>
+</div>
 
-  - MATH4002 算法基础
-  - 011119 人工智能基础
-  - 数学分析 B2 助教笔记
-</details>
+---
+<div align="center" style="display:flex;flex-direction:column;">
+  <a href="https://www.buymeacoffee.com/ktwu01" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  </a>
+</div>
 
-<details>
-<summary><ins>2023 秋</ins>  /  2023 Fall</summary>
-
-- [数值线性代数](http://github.com/tiankaima/numerical_linear_algebra)
-- [Jupyter 笔记本](https://github.com/tiankaima/Notebooks)
-
-  - 001108 数学实验
-  - 001361 符号计算软件
-  - MATH3009 微分几何
-  - MATH3012 微分方程引论
-- 数学实验 大作业
-
-  - [Qt cam](https://github.com/tiankaima/qt_cam)
-  - [Qt example proj](https://github.com/tiankaima/qt_example_proj)
-- [Typst 笔记](https://github.com/tiankaima/typst-notes)
-
-  - 001361 符号计算软件 大作业
-  - 数学分析 B1 助教笔记
-</details>
-
-### 合集
-
-- [LaTeX 笔记](https://github.com/tiankaima/latex-notes)
-- [Typst 笔记](https://github.com/tiankaima/typst-notes)
-- [Tikz 绘图](https://github.com/tiankaima/latex-tests)
-- [Jupyter 笔记本](https://github.com/tiankaima/Notebooks)
-
-## <ins>归档项目</ins>  /  Archived Projects
-
-<details>
-<summary> <ins>Life @ USTC</ins>  /  课程表 & 成绩单等 手机应用 </summary>
-
-- [iOS App](https://github.com/Life-USTC/Life-USTC)
-- [Hugo Site](https://github.com/Life-USTC/LU_Web)
-- [RSS & Push](https://github.com/Life-USTC/LU_RSS)
-- [~~Backend A~~](https://github.com/Life-USTC/LU_Notification)
-- [~~Backend B~~](https://github.com/Life-USTC/LU_Server)
-
-</details>
-
-
-
-<details>
-<summary> <ins>PhiStudio</ins>  /  音游制谱器 TBC </summary>
-
-- [iOS App](https://github.com/tiankaima/PhiStudioiOS)
-- [iOS App v2](https://github.com/tiankaima/PhiStudio-v2)
-- [Docs](https://github.com/tiankaima/MStudioDocs)
-
-</details>
-
-
-
-<details>
-<summary> <ins>macOS touchbar simulator</ins>  /  Touch Bar 模拟器 </summary>
-
-- [software](https://github.com/tiankaima/touch-bar-simulator)
-- [complement](https://github.com/tiankaima/KeyboardShortcuts)
-
-</details>
-
-
-
-<details>
-<summary> <ins>Uniapp Quiz</ins>  /  测验小程序 </summary>
-
-- [Quiz (uni-app)](https://github.com/tiankaima/uniapp-quiz)
-
-</details>
-
-
-<details>
-<summary> Forked OSS project </summary>
-
-- [Swift Reeeder](https://github.com/tiankaima/reeeed)
-
-</details>
-
-
-
-<details>
-<summary> Dead projects </summary>
-
-- [Handwriting Correction](https://github.com/tiankaima/Handwriting)
-- [Comment-based NLP](https://github.com/tiankaima/asoul-comment)
-
-</details>
-
-
-
-<details>
-<summary> Semi-dead projects </summary>
-
-- [Python tutorials](https://github.com/tiankaima/python-tutorial-projects)
-
-</details>
-
--->
 
 ## <ins>联系方式</ins>  /  Contact
 
