@@ -1,7 +1,6 @@
-Hey there! Welcome here. I pour my heart into every project I build, and GitHub is where I forge my dreams into reality — a living index of my relentless journey.
+Hey there! Welcome here.
 
-各位客官们，欢迎来到这儿！我将每一个项目倾注全部热情，GitHub 是我把梦想锻造成现实的地方 —— 它记录着我不懈奋斗的旅程。
-
+各位客官们，欢迎来到这儿！
 
 <div align="center" style="display:flex;flex-direction:row;">
 <div align="center">
@@ -17,6 +16,9 @@ Hey there! Welcome here. I pour my heart into every project I build, and GitHub 
 </div>
 
 <!--
+I pour my heart into every project I build, and GitHub is where I forge my dreams into reality — a living index of my relentless journey.
+我将每一个项目倾注全部热情，GitHub 是我把梦想锻造成现实的地方 —— 它记录着我不懈奋斗的旅程。
+
 ---
 <div align="center" style="display:flex;flex-direction:column;">
   <a href="https://xiaobot.net/p/ktwu01">
