@@ -7,6 +7,10 @@ Hey there! Welcome here.
   <img src="https://profile-counter.glitch.me/ktwu01/count.svg?"  />
 </div>
 
+
+<a href="https://github.com/ktwu01"><img src="https://komarev.com/ghpvc/?username=ktwu01&color=brightgreen" alt="ktwu01" /></a>
+
+
 <a href="https://github.com/ktwu01/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=true&theme=radical" />
 </a>
