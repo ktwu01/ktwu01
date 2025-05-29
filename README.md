@@ -8,11 +8,11 @@ Hey there! Welcome here.
 </div>
 
 <a href="https://github.com/ktwu01/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=true&hide=python" />
 </a>
 
 <a href="https://github.com/ktwu01/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=false&show_icons=true&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=false&show_icons=true&theme=algolia&hide=python" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact" />
