@@ -12,9 +12,13 @@ Hey there! Welcome here.
 </a>
 
 <a href="https://github.com/ktwu01/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true&show_icons=true&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true&show_icons=true&theme=algolia" />
 </a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact" />
+  
 </div>
+
 
 <!--
 I pour my heart into every project I build, and GitHub is where I forge my dreams into reality — a living index of my relentless journey.
