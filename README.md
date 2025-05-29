@@ -13,7 +13,7 @@ Hey there! Welcome here.
 </a>
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true" />
 
 </div>
 
