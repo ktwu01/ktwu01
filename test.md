@@ -1,12 +1,9 @@
 
-<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&count_private=true" />
 <a href="https://github.com/ktwu01/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ktwu01&count_private=true&show_icons=true" />
 </a>
--->
 
-<!--
 I pour my heart into every project I build, and GitHub is where I forge my dreams into reality — a living index of my relentless journey.
 我将每一个项目倾注全部热情，GitHub 是我把梦想锻造成现实的地方 —— 它记录着我不懈奋斗的旅程。
 
@@ -25,7 +22,6 @@ I pour my heart into every project I build, and GitHub is where I forge my dream
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
   </a>
 </div>
--->
 
 ## <ins>联系方式</ins>  /  Contact
 
