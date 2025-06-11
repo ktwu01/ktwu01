@@ -9,7 +9,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork)
 
 
-我是<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)，德克萨斯大学奥斯汀分校24级在读博士。
+我是<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</ruby>，德克萨斯大学奥斯汀分校24级在读博士。
+
 
 <!-- use https://gh-stats-gen.vercel.app/ to create one dashboard -->
 ![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=14)
@@ -50,7 +51,9 @@ I am …
 
 ---
 
+我的联系方式（邮件）: <img src=".assets/email.png" alt="email" width="130" height="15">
+
 <i>喜欢这个项目吗？请考虑给 Star ⭐️ 以帮助改进！</i>
 
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01)
-[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork) 此项目浏览量: <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
