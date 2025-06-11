@@ -91,4 +91,8 @@ Publications in peer-reviewed journals including Journal of Geophysical Research
 
 ---
 
+**Dynamic Project List**: [View All My MATLAB Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=matlab&sort=)
+
+---
+
 *Last Updated: June 2025*

@@ -83,7 +83,7 @@
 
 ---
 
-**动态项目列表**: [查看所有HTML项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=html&sort=)
+**动态项目列表**: [查看我的所有HTML项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=html&sort=)
 
 ---
 

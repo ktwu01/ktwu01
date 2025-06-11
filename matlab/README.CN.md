@@ -87,5 +87,8 @@
 在同行评议期刊发表论文，包括《地球物理研究杂志：空间物理》，专注于大气动力学、空间天气和空间科学教育方法论。
 
 ---
+**动态项目列表**: [查看我的所有MATLAB项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=matlab&sort=)
+
+---
 
 *最后更新: 2025年6月*

@@ -59,7 +59,8 @@ Currently expanding skills in machine learning applications for climate science,
 
 ---
 
-**Dynamic Project List**: [View All Python Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=python&sort=)
+**Dynamic Project List**: [View All My Python Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=python&sort=)[View All My Jupyter Notebook Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=jupyter+notebook&sort=)
+
 
 ---
 

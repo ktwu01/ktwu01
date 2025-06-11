@@ -69,7 +69,7 @@ Automated script suite for HPC cluster job submission and monitoring to enhance 
 
 ---
 
-**Dynamic Project List**: [View All Shell Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=shell&sort=)
+**Dynamic Project List**: [View All My Shell Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=shell&sort=)
 
 ---
 

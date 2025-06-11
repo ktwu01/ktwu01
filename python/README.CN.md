@@ -63,7 +63,7 @@ Also add in English
 
 ---
 
-**动态项目列表**: [查看所有Python项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=python&sort=)
+**动态项目列表**: [查看我的所有Python项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=python&sort=)[查看我的所有Jupyter Notebook项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=jupyter+notebook&sort=)
 
 ---
 

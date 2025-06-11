@@ -83,7 +83,7 @@ Currently expanding skills in React framework, data visualization libraries, and
 
 ---
 
-**Dynamic Project List**: [View All HTML Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=html&sort=)
+**Dynamic Project List**: [View All My HTML Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=html&sort=)
 
 ---
 

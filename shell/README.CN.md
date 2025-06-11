@@ -69,7 +69,7 @@ HPC集群作业提交与监控的自动化脚本套件，提升研究效率。
 
 ---
 
-**动态项目列表**: [查看所有Shell项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=shell&sort=)
+**动态项目列表**: [查看我的所有Shell项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=shell&sort=)
 
 ---
 
