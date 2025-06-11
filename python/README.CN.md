@@ -40,7 +40,7 @@ Also add in English
 - 多核数据处理管道
 - 大型科学数据集的内存高效处理
 - 自动化作业提交和监控系统
-
+<!-- 
 ## 性能指标
 
 | 能力领域 | 经验水平 | 项目数量 |
@@ -48,18 +48,22 @@ Also add in English
 | 数据分析 | 专家级 | 15+ |
 | 科学计算 | 高级 | 10+ |
 | HPC集成 | 高级 | 8+ |
-| 可视化 | 专家级 | 20+ |
+| 可视化 | 专家级 | 20+ | -->
 
 ## 相关作品集
 
-- **[MATLAB 作品集](../matlab-portfolio/)** - 信号处理与建模
-- **[HPC 作品集](../hpc-portfolio/)** - Fortran/C 科学计算
-- **[Web 作品集](../web-portfolio/)** - 交互式数据可视化
-- **[学术指南](../academic-guide-portfolio/)** - 研究资源与资助指南
+- **[MATLAB 作品集](../matlab/)** - 信号处理与建模
+- **[HPC 作品集](../hpc/)** - Fortran/C 科学计算
+- **[Web 作品集](../web/)** - 交互式数据可视化
+- **[学术指南](../academic/)** - 研究资源与资助指南
 
 ## 持续学习
 
-目前正在扩展气候科学机器学习应用、高级统计建模和金融数据分析技能。
+目前正在扩展气候科学机器学习应用、高级统计建模技能。
+
+---
+
+**动态项目列表**: [查看所有Python项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=python&sort=)
 
 ---
 

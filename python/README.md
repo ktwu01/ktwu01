@@ -37,25 +37,29 @@ Python-based workflows for high-performance computing environments, integrating 
 - Memory-efficient handling of large scientific datasets
 - Automated job submission and monitoring systems
 
-## Performance Metrics
+<!-- ## Performance Metrics
 
 | Capability | Experience Level | Projects Count |
 |------------|------------------|----------------|
 | Data Analysis | Expert | 15+ |
 | Scientific Computing | Advanced | 10+ |
 | HPC Integration | Advanced | 8+ |
-| Visualization | Expert | 20+ |
+| Visualization | Expert | 20+ | -->
 
 ## Related Portfolios
 
-- **[MATLAB Portfolio](../matlab-portfolio/)** - Signal processing and modeling
-- **[HPC Portfolio](../hpc-portfolio/)** - Fortran/C scientific computing
-- **[Web Portfolio](../web-portfolio/)** - Interactive data visualization
-- **[Academic Guide](../academic-guide-portfolio/)** - Research resources and funding guides
+- **[MATLAB Portfolio](../matlab/)** - Signal processing and modeling
+- **[HPC Portfolio](../hpc/)** - Fortran/C scientific computing
+- **[Web Portfolio](../web/)** - Interactive data visualization
+- **[Academic Guide](../academic-guide/)** - Research resources and funding guides
 
 ## Continuous Learning
 
-Currently expanding skills in machine learning applications for climate science, advanced statistical modeling, and financial data analysis.
+Currently expanding skills in machine learning applications for climate science, advanced statistical modeling.
+
+---
+
+**Dynamic Project List**: [View All Python Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=python&sort=)
 
 ---
 
