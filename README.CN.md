@@ -1,12 +1,7 @@
-# 吴叩天的技能矩阵
-
+<!-- # 吴叩天的技能矩阵 -->
 各位客官们，欢迎来到这儿，很高兴认识你们！
 
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
-[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
-![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
-[![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01)
-[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md) ![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg) [![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01) [![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork) 此项目浏览量:  <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
 
 
 我是<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</ruby>，德克萨斯大学奥斯汀分校24级在读博士。
@@ -25,8 +20,11 @@ I am …
 
 -->
 
+<details>
+<summary>
 
-## 我的核心技术栈
+## 点击此处展开我的核心技术栈
+</summary>
 
 | 技术领域 | 作品集 | 熟练程度 |
 |---------|--------|---|
@@ -53,7 +51,11 @@ I am …
 
 我的联系方式（邮件）: <img src=".assets/email.png" alt="email" width="130" height="15">
 
-<i>喜欢这个项目吗？请考虑给 Star ⭐️ 以帮助改进！</i>
-
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01)
-[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork) 此项目浏览量: <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork)
+
+</details>
+
+
+
+<i>喜欢下面这些项目吗？请考虑关注我以帮助改进！</i>

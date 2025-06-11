@@ -1,10 +1,7 @@
-# Koutian "KT" Wu's Technical Skills Matrix
-
+<!-- # Koutian "KT" Wu's Technical Skills Matrix -->
 Hey there! Welcome here. How are you? 各位客官们，欢迎来到这儿，很高兴认识你们！
 
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
-[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md) ![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg) [![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01)
-[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md) ![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg) [![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01) [![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork) Profile view count: <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
 
 
 This is Koutian "KT" Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></ruby>). I am a Proud Longhorn 🎓 at **UT Austin** from 2024 🤘
@@ -22,8 +19,11 @@ I am …
 
 -->
 
+<details>
+<summary>
 
-## My Core Technical Stack
+## Click here to view my Core Technical Stack
+</summary>
 
 | Technology | Portfolio | Expertise |
 |------------|-----------|-----------|
@@ -50,7 +50,9 @@ I am …
 
 Contact me at email: <img src=".assets/email.png" alt="email" width="130" height="15">
 
-<i>Like this project? Please consider giving it a Star ⭐️ to help improve!</i>
-
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01)
-[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork) Profile view count: <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork)
+
+</details>
+
+<i>Like the projects below? Please consider following me to help improve!</i>
