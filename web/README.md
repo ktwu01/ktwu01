@@ -75,6 +75,7 @@ Personalized homepage design showcasing creative expression and emotional intera
 - **[Python Portfolio](../python/)** - Data Analysis & Scientific Computing
 - **[MATLAB Portfolio](../matlab/)** - Signal Processing & Modeling
 - **[HPC Portfolio](../hpc/)** - High Performance Computing
+- **[Shell Portfolio](../shell/)** -  Cross-platform configuration optimization
 - **[Academic Guide](../academic/)** - Research Resources & Funding Guide
 
 ## Continuous Learning

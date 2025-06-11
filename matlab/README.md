@@ -83,6 +83,8 @@ Comprehensive collection of MATLAB functions and scripts for scientific computin
 
 - **[Python Portfolio](../python/)** - Scientific computing and data analysis
 - **[HPC Portfolio](../hpc/)** - High-performance computing applications
+- **[Shell Portfolio](../shell/)** - Cross-platform configuration optimization
+- **[Web Portfolio](../web/)** - Interactive Data Visualization
 - **[Academic Guide](../academic/)** - Research resources and methodology
 
 ## Research Impact

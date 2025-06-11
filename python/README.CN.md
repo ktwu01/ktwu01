@@ -55,6 +55,7 @@ Also add in English
 - **[MATLAB 作品集](../matlab/)** - 信号处理与建模
 - **[HPC 作品集](../hpc/)** - Fortran/C 科学计算
 - **[Web 作品集](../web/)** - 交互式数据可视化
+- **[Shell 作品集](../shell/)** - 跨平台Shell配置优化
 - **[学术指南](../academic/)** - 研究资源与资助指南
 
 ## 持续学习
