@@ -22,7 +22,7 @@ I am …
 <details>
 <summary>
 
-## Click here to view my Core Technical Stack
+## Click here to view my core technical stack
 </summary>
 
 | Technology | Portfolio | Expertise |
@@ -34,13 +34,13 @@ I am …
 | **[Shell](./shell/)** | System Configuration & Automation | Intermediate |
 | **[Academic](./academic-guide/)** | Research Resources & Guides | Experienced |
 
-## Application Domains
+## Application domains
 
 - 🌍 **Earth Science Modeling**: Python + HPC + MATLAB
 - 📊 **Data Science**: Python + Visualization
 - 🎓 **Academic Resources**: Application Guides + Resource Curation
 
-## Quick Navigation
+## Quick navigation
 
 - 🔬 **Research Focus**: Land surface modeling, meteorology, time series analysis
 - 💻 **Computing**: HPC clusters (TACC, NCAR), parallel processing
