@@ -52,7 +52,7 @@ Python-based workflows for high-performance computing environments, integrating 
 - **[HPC Portfolio](../hpc/)** - Fortran/C scientific computing
 - **[Web Portfolio](../web/)** - Interactive data visualization
 - **[Shell Portfolio](../shell/)** - Cross-platform configuration optimization
-- **[Academic Guide](../academic-guide/)** - Research resources and funding guides
+- **[Academic Guide](../academic/)** - Research resources and funding guides
 
 ## Continuous Learning
 

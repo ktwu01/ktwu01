@@ -33,7 +33,7 @@ I am …
 | **[Fortran](./fortran/)** | Fortran | Intermediate |
 | **[Web](./web/)** | HTML/CSS/JS & Visualization | Experienced |
 | **[Shell](./shell/)** | System Configuration & Automation | Intermediate |
-| **[Academic](./academic-guide/)** | Research Resources & Guides | Experienced |
+| **[Academic](./academic/)** | Research Resources & Guides | Experienced |
 
 ## Application domains
 

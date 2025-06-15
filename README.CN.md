@@ -33,7 +33,7 @@ I am …
 | **[Fortran](./fortran/)** | Fortran | 中级 |
 | **[Web](./web/)** | HTML/CSS/JS 与可视化 | 熟练 |
 | **[Shell](./shell/)** | 系统配置与自动化 | 中级 |
-| **[Academic](./academic-guide/)** | 学术资源与指南 | 熟练 |
+| **[Academic](./academic/)** | 学术资源与指南 | 熟练 |
 
 ## 按应用领域
 
