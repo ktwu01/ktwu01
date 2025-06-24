@@ -21,10 +21,22 @@ Focused on academic resource websites, interactive applications, and creative pr
 
 **[ut01.github.io](https://github.com/ut01/ut01.github.io)** - Navigation & Resource Page for UT-Austin Students
 
-A comprehensive navigation and resource integration platform designed specifically for University of Texas at Austin students, providing quick access to academic resources.
+**ut01** is a student navigation platform I developed for UT Austin, addressing critical pain points students face when accessing scattered university services through deep-link navigation and frequent login timeouts.
 
-**Tech Stack**: HTML, CSS, JavaScript  
-**Topics**: Academic navigation, resource integration, student services
+By consolidating all core academic, financial, and campus life services into a unified interface, the platform eliminates user frustration with complex website hierarchies.
+
+**Tech Stack**: Jekyll, HTML/CSS/JavaScript, GitHub Pages. Built with Jekyll static site generator and responsive design principles to achieve fast loading and cross-device compatibility.
+
+**Key Strategy**: Information architecture optimization, user experience centralization, static site deployment
+
+**Focus Areas**: Web navigation, resource integration, student services
+
+Website Screenshots:
+
+![ut01 Screenshot](./assets/Screenshot-Multiple-Device-ut01.png)
+![ut01 Screenshot](./assets/Screenshot-Mobile-Device-ut01.png)
+
+Site Traffic Analytics: [![Visitor Count](https://clustrmaps.com/map_v2.png?d=fQvKmZbPMctrjCs0jp8rDLqKYPwmQtmFVMiOSl9YUsE&cl=ffffff&w=a&t=tt&co=ffffff&ct=000000)](https://clustrmaps.com/site/1c6il)
 
 ### LEAD-UTexas.github.io
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/LEAD-UTexas.github.io)](https://github.com/ktwu01/LEAD-UTexas.github.io)
@@ -32,23 +44,27 @@ A comprehensive navigation and resource integration platform designed specifical
 
 **[LEAD-UTexas.github.io](https://github.com/ktwu01/LEAD-UTexas.github.io)** - LEAD-UTexas Research Group Homepage
 
-Official website for the LEAD research group at University of Texas, showcasing research achievements and team information.
+Official website for the Dr. Zong-Liang Yang’s Land Environment and Atmospheric Dynamics (LEAD) Research Group at University of Texas, showcasing research achievements and team information.
 
 **Tech Stack**: HTML, CSS, JavaScript  
 **Topics**: Research organization, academic showcase, team homepage
 
 ## Interactive Applications
 
-### time-coins
+### Time Coins - Real-time Earnings Tracker
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/time-coins)](https://github.com/ktwu01/time-coins)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/time-coins)](https://github.com/ktwu01/time-coins/fork)
 
-**[time-coins](https://github.com/ktwu01/time-coins)** - Time Coin Generator
+### **[Experience Live Demo - Make Every Moment Golden](https://ktwu01.github.io/time-coins/)**
 
-An interactive time visualization application where gold coins are generated as time flows through an hourglass, embodying the concept "time is money."
+![time-coins Screenshot](./assets/Screenshot-Multiple-Device-time-coins.png)
 
-**Tech Stack**: HTML, CSS, JavaScript  
-**Topics**: Time visualization, interactive animation, creative programming
+Real-time earnings visualization tool featuring elegant hourglass animations and golden particle effects. Addresses freelancer motivation challenges through progressive milestone celebration system. Implements zero-dependency JavaScript architecture with support for 50+ timezones and 33 currencies, delivering optimal performance across devices.
+
+**Tech Stack**: HTML5, CSS3, JavaScript ES6+, Tailwind CSS  
+**Focus**: Real-time Data Visualization, Interactive Animation, Internationalization
+
+---
 
 ## Creative Projects
 

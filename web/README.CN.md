@@ -21,10 +21,23 @@
 
 **[ut01.github.io](https://github.com/ut01/ut01.github.io)** - UT-Austin学生导航与资源页面
 
-德克萨斯大学奥斯汀分校学生专用的导航和资源整合平台，提供学术资源快速访问。
+**ut01** 是我开发的德克萨斯大学奥斯汀分校学生导航平台，解决了学生访问分散的大学服务时面临的深层链接导航和频繁登录超时问题。
 
-**技术栈**: HTML, CSS, JavaScript  
-**主题**: 学术导航, 资源整合, 学生服务
+通过整合所有核心学术、财务、校园生活服务到单一界面，消除了用户在复杂网站层级中的导航困扰。
+
+**技术栈**: Jekyll, HTML/CSS/JavaScript, GitHub Pages。采用Jekyll静态站点生成器和响应式设计，实现快速加载和跨设备兼容。
+
+**关键策略**: 信息架构优化, 用户体验集中化, 静态站点部署
+
+**主题**: 网页导航, 资源整合, 学生服务
+
+网站截图：
+
+![ut01 Screenshot](./assets/Screenshot-Multiple-Device-ut01.png)
+![ut01 Screenshot](./assets/Screenshot-Mobile-Device-ut01.png)
+
+站点访问量统计：[![Visitor Count](https://clustrmaps.com/map_v2.png?d=fQvKmZbPMctrjCs0jp8rDLqKYPwmQtmFVMiOSl9YUsE&cl=ffffff&w=a&t=tt&co=ffffff&ct=000000)](https://clustrmaps.com/site/1c6il)
+
 
 ### LEAD-UTexas.github.io
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/LEAD-UTexas.github.io)](https://github.com/ktwu01/LEAD-UTexas.github.io)
@@ -39,16 +52,19 @@
 
 ## 交互式应用
 
-### time-coins
+### 一寸光阴一寸金 （time-coins）
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/time-coins)](https://github.com/ktwu01/time-coins)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/time-coins)](https://github.com/ktwu01/time-coins/fork)
 
-**[time-coins](https://github.com/ktwu01/time-coins)** - 时间金币生成器
+### **[点击网站，让每一刻都闪闪金光](https://ktwu01.github.io/time-coins/)**
 
-一寸光阴一寸金，随着时间沙漏流逝，就会有金币产生的交互式时间可视化应用。
+![time-coins Screenshot](./assets/Screenshot-Multiple-Device-time-coins.png)
 
-**技术栈**: HTML, CSS, JavaScript  
-**主题**: 时间可视化, 交互动画, 创意编程
+实时收入追踪工具，通过精美沙漏动画和金币粒子效果可视化工作收入。解决自由职业者时间价值感知问题，采用渐进式里程碑系统维持工作动力。支持50+时区和33种货币的国际化设计，JavaScript架构确保最佳性能。
+
+**技术栈**: HTML5, CSS3, JavaScript ES6+, Tailwind CSS  
+**主题**: 实时数据可视化, 交互动画, 国际化开发
+
 
 ## 创意项目
 
