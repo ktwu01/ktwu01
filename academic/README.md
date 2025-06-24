@@ -32,6 +32,24 @@ Complete guide and resource links for NASA FINESST fellowship applications.
 
 Comprehensive collection of academic resources, course materials, and institutional links for USTC students and researchers. Features organized navigation for academic planning and research resource discovery.
 
+### Space Physics Practical Education Project
+
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022/fork)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.CN.md)
+
+This project documents my first-authored and corresponding-authored review on space physics hands-on education, published in *Reviews of Geophysics and Planetary Physics*.
+
+**Core Problem Addressed**: Traditional space physics education lacked practical components, creating a disconnect between theoretical knowledge and actual research work, hindering student engagement with real scientific workflows.
+
+**Project Impact**:
+- Established comprehensive practical education framework benefiting 480+ undergraduate students
+- Successfully analyzed major space weather events including 2022 "Starlink" geomagnetic storm
+- Created replicable educational model for space science talent development
+
+**Tech Stack**: MATLAB, Python, IDL, Multi-satellite Data Processing, Ground-based Observation Analysis
+
 ## Core Focus Areas
 
 **Graduate Student Resources**: Fellowship applications, funding opportunities, academic writing

@@ -34,6 +34,22 @@ NASA FINESST 奖学金申请的完整指南和资源链接。
 
 为中科大学生和研究人员整理的综合性学术资源、课程资料和机构链接集合。提供有组织的学术规划和研究资源发现导航。
 
+### 空间科学与技术专业实践教育项目
+
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022/fork)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.CN.md)
+
+本项目记录了我作为第一作者和通讯作者撰写的空间物理实践教育综述，发表于《地球与行星物理论评》期刊。
+**解决的核心问题**: 传统空间物理教育缺乏实践环节，学生难以将理论知识与实际科研工作结合，存在"理论与实践脱节"的教育痛点。
+
+**项目影响**:
+- 建立了完整的空间物理实践教育体系，惠及480余名本科生
+- 成功分析2022年"Starlink"地磁暴等重大空间天气事件
+- 为空间科学人才培养提供了可复制的教育模式
+
+**技术栈**: MATLAB, Python, IDL, LaTeX, 多源卫星数据处理, 地基观测数据分析
 
 ## 核心关注领域
 
