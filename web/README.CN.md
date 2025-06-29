@@ -31,7 +31,7 @@
 
 **主题**: 网页导航, 资源整合, 学生服务
 
-网站截图：
+### **[立即访问网站：](https://ut01.github.io)**
 
 ![ut01 Screenshot](./assets/Screenshot-Multiple-Device-ut01.png)
 ![ut01 Screenshot](./assets/Screenshot-Mobile-Device-ut01.png)
@@ -50,13 +50,16 @@
 **技术栈**: HTML, CSS, JavaScript  
 **主题**: 研究组织, 学术展示, 团队主页
 
+### **[立即访问网站：](https://LEAD-UTexas.github.io)**
+![LEAD-UTexas](./assets/Screenshot-LEAD-Group.png)
+
 ## 交互式应用
 
 ### 一寸光阴一寸金 （time-coins）
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/time-coins)](https://github.com/ktwu01/time-coins)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/time-coins)](https://github.com/ktwu01/time-coins/fork)
 
-### **[点击网站，让每一刻都闪闪金光](https://ktwu01.github.io/time-coins/)**
+### **[立即点击网站，让每一刻都闪闪金光](https://ktwu01.github.io/time-coins/)**
 
 ![time-coins Screenshot](./assets/Screenshot-Multiple-Device-time-coins.png)
 
