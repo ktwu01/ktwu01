@@ -8,7 +8,7 @@
 
 
 <!-- use https://gh-stats-gen.vercel.app/ to create one dashboard -->
-![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=10)
+![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=10)
 <!-- Top Langs: langs_count no more than 14, or langs_count displayed can be less than 10) -->
 
 <!-- 
