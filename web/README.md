@@ -16,12 +16,14 @@ Focused on academic resource websites, interactive applications, and creative pr
 ## Academic Resource Websites
 
 ### ut01.github.io
-[![GitHub stars](https://img.shields.io/github/stars/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io/fork)
 
-**[ut01.github.io](https://github.com/ut01/ut01.github.io)** - Navigation & Resource Page for UT-Austin Students
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
+[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io)](https://ut01.github.io/) [![GitHub stars](https://img.shields.io/github/stars/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io) [![GitHub forks](https://img.shields.io/github/forks/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io/fork) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Discuss on Reddit](https://img.shields.io/badge/Discuss_on-Reddit-orange?logo=reddit)](https://www.reddit.com/r/UTAustin/comments/1loxvxu/new_to_ut_austin_tired_of_clicking_through_5/)
 
-**ut01** is a student navigation platform I developed for UT Austin, addressing critical pain points students face when accessing scattered university services through deep-link navigation and frequent login timeouts.
+[![Visit](https://img.shields.io/badge/访问-ut01.github.io-orange)](https://ut01.github.io/)
+
+**ut01** is a Navigation & Resource platform I developed for UT Austin students.
 
 By consolidating all core academic, financial, and campus life services into a unified interface, the platform eliminates user frustration with complex website hierarchies.
 
@@ -31,7 +33,7 @@ By consolidating all core academic, financial, and campus life services into a u
 
 **Focus Areas**: Web navigation, resource integration, student services
 
-### **[Experience Live Demo：](https://ut01.github.io)**
+### **[Live Demo：](https://ut01.github.io)**
 
 ![ut01 Screenshot](./assets/Screenshot-Multiple-Device-ut01.png)
 ![ut01 Screenshot](./assets/Screenshot-Mobile-Device-ut01.png)
@@ -49,11 +51,32 @@ Official website for the Dr. Zong-Liang Yang’s Land Environment and Atmospheri
 **Tech Stack**: HTML, CSS, JavaScript  
 **Topics**: Research organization, academic showcase, team homepage
 
-### **[Experience Live Demo：](https://LEAD-UTexas.github.io)**
+### **[Live Demo：](https://LEAD-UTexas.github.io)**
 ![LEAD-UTexas](./assets/Screenshot-LEAD-Group.png)
 
 
 ## Interactive Applications
+
+### Is This Advisor a Trap? Calculator Version
+
+[![Website](https://img.shields.io/website?url=https%3A//advisor-calculator.onrender.com/)](https://advisor-calculator.onrender.com/) [![GitHub stars](https://img.shields.io/github/stars/ktwu01/advisor-calculator)](https://github.com/ktwu01/advisor-calculator) [![GitHub forks](https://img.shields.io/github/forks/ktwu01/advisor-calculator)](https://github.com/ktwu01/advisor-calculator/fork) ![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md) [![Español](https://img.shields.io/badge/lang-Espa%C3%B1ol-red.svg)](README.es.md) [![Français](https://img.shields.io/badge/lang-Fran%C3%A7ais-purple.svg)](README.fr.md) [![日本語](https://img.shields.io/badge/lang-日本語-green.svg)](README.ja.md)
+
+### **[Live Demo：](https://advisor-calculator.onrender.com/)**
+![demo](assets/demo-View-Detailed-Analysis.png)
+
+Scientifically compare multiple advisors to help you avoid problematic supervisors.
+
+**🔍 20-Dimension Evaluation System** : Personality Assessment,  Academic Capability,  Work Environment, Career Development, Smart Weight System, etc.
+
+**Frontend Technology Stack**
+- **Framework**: Next.js 15 + TypeScript
+- **UI Library**: shadcn/ui (Radix UI + Tailwind CSS)
+- **Icons**: Lucide React
+- **Styling**: Tailwind CSS
+- **Components**: Collapsible panels, tooltips, etc.
+
 
 ### Time Coins - Real-time Earnings Tracker
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/time-coins)](https://github.com/ktwu01/time-coins)
@@ -63,10 +86,15 @@ Official website for the Dr. Zong-Liang Yang’s Land Environment and Atmospheri
 
 ![time-coins Screenshot](./assets/Screenshot-Multiple-Device-time-coins.png)
 
-Real-time earnings visualization tool featuring elegant hourglass animations and golden particle effects. Addresses freelancer motivation challenges through progressive milestone celebration system. Implements zero-dependency JavaScript architecture with support for 50+ timezones and 33 currencies, delivering optimal performance across devices.
 
-**Tech Stack**: HTML5, CSS3, JavaScript ES6+, Tailwind CSS  
-**Focus**: Real-time Data Visualization, Interactive Animation, Internationalization
+A tool that tracks your earnings in real-time with an elegant hourglass animation and falling gold coin effects. It helps freelancers and remote workers visualize their time's value, using a milestone system to keep them motivated.
+
+- **Internationalized:** Supports 50+ time zones and 33 currencies.
+- **Two Versions:** Available in both a lightweight static HTML/JS version and a modern Vue 3 + Vite component-based version.
+- **Responsive Design:** Styled with Tailwind CSS for a seamless experience on any device.
+
+**Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Vue 3, Vite, Tailwind CSS  
+**Key Features:** Real-time data visualization, interactive animations, internationalization.
 
 ---
 
@@ -94,7 +122,7 @@ Personalized homepage design showcasing creative expression and emotional intera
 
 - **[Python Portfolio](../python/)** - Data Analysis & Scientific Computing
 - **[MATLAB Portfolio](../matlab/)** - Signal Processing & Modeling
-- **[HPC Portfolio](../hpc/)** - High Performance Computing
+<!-- - **[HPC Portfolio](../hpc/)** - High Performance Computing -->
 - **[Shell Portfolio](../shell/)** -  Cross-platform configuration optimization
 - **[Academic Guide](../academic/)** - Research Resources & Funding Guide
 
@@ -104,8 +132,12 @@ Currently expanding skills in React framework, data visualization libraries, and
 
 ---
 
-**Dynamic Project List**: [View All My HTML Projects](https://github.com/ktwu01?tab=repositories&q=&type=&language=html&sort=)
-
+**Dynamic Project List**:
+- [View All My HTML/CSS/SCSS/JavaScript Projects](https://github.com/ktwu01?tab=repositories&language=html)
+- [View All My Projects with React](https://github.com/ktwu01?tab=repositories&q=topic%3Areact&type=&language=&sort=)
+- [View All My Projects with Vue.js](https://github.com/ktwu01?tab=repositories&q=topic%3Avuejs&type=&language=&sort=)
+- [View All My Projects with Next.js](https://github.com/ktwu01?tab=repositories&q=topic%3Anextjs&type=&language=&sort=)
+ 
 ---
 
-*Last Updated: June 2025*
+*Last Updated: July 2025*

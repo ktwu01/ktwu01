@@ -16,8 +16,12 @@
 ## 学术资源网站
 
 ### ut01.github.io
-[![GitHub stars](https://img.shields.io/github/stars/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io/fork)
+
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
+[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io)](https://ut01.github.io/) [![GitHub stars](https://img.shields.io/github/stars/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io) [![GitHub forks](https://img.shields.io/github/forks/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io/fork) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Discuss on Reddit](https://img.shields.io/badge/Discuss_on-Reddit-orange?logo=reddit)](https://www.reddit.com/r/UTAustin/comments/1loxvxu/new_to_ut_austin_tired_of_clicking_through_5/)
+
+[![访问网站](https://img.shields.io/badge/访问-ut01.github.io-orange)](https://ut01.github.io/)
 
 **[ut01.github.io](https://github.com/ut01/ut01.github.io)** - UT-Austin学生导航与资源页面
 
@@ -55,6 +59,28 @@
 
 ## 交互式应用
 
+### 这个导师坑不坑·测算版
+
+[![网站](https://img.shields.io/website?url=https%3A//advisor-calculator.onrender.com/)](https://advisor-calculator.onrender.com/) [![GitHub stars](https://img.shields.io/github/stars/ktwu01/advisor-calculator)](https://github.com/ktwu01/advisor-calculator) [![GitHub forks](https://img.shields.io/github/forks/ktwu01/advisor-calculator)](https://github.com/ktwu01/advisor-calculator/fork) ![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)  [![Español](https://img.shields.io/badge/lang-Espa%C3%B1ol-red.svg)](README.es.md) [![Français](https://img.shields.io/badge/lang-Fran%C3%A7ais-purple.svg)](README.fr.md) [![日本語](https://img.shields.io/badge/lang-日本語-green.svg)](README.ja.md)
+
+### **[在线演示：](https://advisor-calculator.onrender.com/)**
+![demo](assets/demo-View-Detailed-Analysis.png)
+
+科学地比较多位导师，帮助您避开问题导师。
+
+**20维度评估体系**：人格评估、学术能力、工作环境、职业发展、智能权重系统等。
+
+**前端技术栈**
+- **框架**：Next.js 15 + TypeScript
+- **UI库**：shadcn/ui (Radix UI + Tailwind CSS)
+- **图标**：Lucide React
+- **样式**：Tailwind CSS
+- **组件**：可折叠面板、工具提示等。
+
+
+
 ### 一寸光阴一寸金 （time-coins）
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/time-coins)](https://github.com/ktwu01/time-coins)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/time-coins)](https://github.com/ktwu01/time-coins/fork)
@@ -63,12 +89,17 @@
 
 ![time-coins Screenshot](./assets/Screenshot-Multiple-Device-time-coins.png)
 
-实时收入追踪工具，通过精美沙漏动画和金币粒子效果可视化工作收入。解决自由职业者时间价值感知问题，采用渐进式里程碑系统维持工作动力。支持50+时区和33种货币的国际化设计，JavaScript架构确保最佳性能。
 
-**技术栈**: HTML5, CSS3, JavaScript ES6+, Tailwind CSS  
-**主题**: 实时数据可视化, 交互动画, 国际化开发
+一款通过精美的沙漏动画和金币掉落效果实时追踪工作收入的工具。它帮助自由职业者和远程工作者直观地感受时间价值，并通过里程碑系统保持动力。
 
+- **国际化支持:** 支持超过50个时区和33种货币。
+- **双版本实现:** 提供原生HTML/JS静态版和现代化的Vue 3 + Vite组件版。
+- **响应式设计:** 使用 Tailwind CSS精心设计，确保在任何设备上都有一致的流畅体验。
 
+**技术栈:** HTML5, CSS3, JavaScript (ES6+), Vue 3, Vite, Tailwind CSS  
+**核心特性:** 实时数据可视化、交互动画、国际化。
+
+<!-- 
 ## 创意项目
 
 ### komo520
@@ -80,7 +111,7 @@
 个性化主页设计，展示创意表达和情感化交互设计能力。
 
 **技术栈**: HTML, CSS, JavaScript  
-**主题**: 个人主页, 创意设计, 情感交互
+**主题**: 个人主页, 创意设计, 情感交互 -->
 
 ## 核心特性
 
@@ -93,7 +124,7 @@
 
 - **[Python 作品集](../python/)** - 数据分析与科学计算
 - **[MATLAB 作品集](../matlab/)** - 信号处理与建模
-- **[HPC 作品集](../hpc/)** - 高性能计算
+<!-- - **[HPC 作品集](../hpc/)** - 高性能计算 -->
 - **[Shell 作品集](../shell/)** - 跨平台Shell配置优化
 - **[学术指南](../academic/)** - 研究资源与资助指南
 
@@ -103,8 +134,12 @@
 
 ---
 
-**动态项目列表**: [查看我的所有HTML项目](https://github.com/ktwu01?tab=repositories&q=&type=&language=html&sort=)
+**动态项目列表**:
+- [查看我的所有HTML项目](https://github.com/ktwu01?tab=repositories&language=html)
+- [查看我的所有React项目](https://github.com/ktwu01?tab=repositories&q=topic%3Areact&type=&language=&sort=)
+- [查看我的所有Vue.js项目](https://github.com/ktwu01?tab=repositories&q=topic%3Avuejs&type=&language=&sort=)
+- [查看我的所有Next.js项目](https://github.com/ktwu01?tab=repositories&q=topic%3Anextjs&type=&language=&sort=)
 
 ---
 
-*最后更新: 2025年6月*
+*最后更新: 2025年7月*
