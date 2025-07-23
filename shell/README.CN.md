@@ -43,6 +43,18 @@
 
 ## 自动化脚本工具
 
+### compress-video
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/compress-video)](https://github.com/ktwu01/compress-video)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/compress-video)](https://github.com/ktwu01/compress-video/fork)
+[![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://github.com/ktwu01/compress-video)
+
+**[compress-video](https://github.com/ktwu01/compress-video)** - 使用ffmpeg压缩大型讲座或Zoom录像
+
+智能视频压缩工具，将大型讲座录像（如博士论文答辩）从2GB压缩至200-500MB，同时保持可接受的质量，专为静态幻灯片演示优化。
+
+**技术栈**: Shell, ffmpeg, 视频处理  
+**使用场景**: 学术演示, Zoom录像, 讲座压缩
+
 ### 环境配置同步系统
 跨平台环境配置自动同步工具，支持HPC集群与本地开发环境间的配置管理。
 

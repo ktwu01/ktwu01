@@ -43,6 +43,18 @@ Optimized `.zshrc` template for PC users supporting MacBook development environm
 
 ## Automation Script Tools
 
+### compress-video
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/compress-video)](https://github.com/ktwu01/compress-video)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/compress-video)](https://github.com/ktwu01/compress-video/fork)
+[![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://github.com/ktwu01/compress-video)
+
+**[compress-video](https://github.com/ktwu01/compress-video)** - Compress large lecture or Zoom recordings with ffmpeg
+
+Intelligent video compression tool that reduces large lecture recordings (e.g., PhD defenses) from 2GB to 200-500MB while maintaining acceptable quality, optimized for static slide presentations.
+
+**Tech Stack**: Shell, ffmpeg, Video Processing  
+**Use Case**: Academic presentations, Zoom recordings, lecture compression
+
 ### Environment Configuration Sync System
 Cross-platform environment configuration auto-sync tools supporting configuration management between HPC clusters and local development environments.
 
