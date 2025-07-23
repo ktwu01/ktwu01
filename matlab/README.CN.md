@@ -58,14 +58,36 @@
 
 ## MATLAB 代码库
 
-### MAT-Code
+### CountCodingLines
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/CountCodingLines)](https://github.com/ktwu01/CountCodingLines)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/CountCodingLines)](https://github.com/ktwu01/CountCodingLines/fork)
+[![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://github.com/ktwu01/CountCodingLines)
+
+**[CountCodingLines](https://github.com/ktwu01/CountCodingLines)** - 版本控制前MATLAB项目的唯一行统计工具
+
+许多历史文件夹包含同一文件的多个版本。传统的代码行计数器会夸大总数，因为它们会计算每一个重复行。CountCodingLines在行级别去除重复，为您提供不同代码的真实度量。
+
+**主要功能**: 行级去重、递归搜索、可配置根目录、纯文本导出
+
+### geomaps
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/geomaps)](https://github.com/ktwu01/geomaps)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/geomaps)](https://github.com/ktwu01/geomaps/fork)
+[![GitHub license](https://img.shields.io/github/license/ktwu01/geomaps)](https://github.com/ktwu01/geomaps/blob/master/LICENSE)
+
+**[geomaps](https://github.com/ktwu01/geomaps)** - 用于绘制科学地图的Python和MATLAB代码
+
+使用Python和MATLAB环境创建出版级地理可视化和科学地图的综合工具包。
+
+**技术栈**: Python, MATLAB, 地理数据处理
+
+<!-- ### MAT-Code
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/MAT-Code)](https://github.com/ktwu01/MAT-Code)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/MAT-Code)](https://github.com/ktwu01/MAT-Code/fork)
 [![GitHub license](https://img.shields.io/github/license/ktwu01/MAT-Code)](https://github.com/ktwu01/MAT-Code/blob/master/LICENSE)
 
 **[MAT-Code](https://github.com/ktwu01/MAT-Code)** - 通用MATLAB代码集合与工具
 
-科学计算、数据分析和研究应用的MATLAB函数和脚本综合集合。为大气科学和信号处理中的常见计算任务提供可重用的代码模块。
+科学计算、数据分析和研究应用的MATLAB函数和脚本综合集合。为大气科学和信号处理中的常见计算任务提供可重用的代码模块。 -->
 
 <!-- ## 性能指标
 

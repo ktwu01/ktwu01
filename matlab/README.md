@@ -58,14 +58,36 @@ Analysis of atmospheric Lamb wave propagation following the 2022 Tonga volcanic 
 
 ## MATLAB Code Repository
 
-### MAT-Code
+### CountCodingLines
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/CountCodingLines)](https://github.com/ktwu01/CountCodingLines)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/CountCodingLines)](https://github.com/ktwu01/CountCodingLines/fork)
+[![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://github.com/ktwu01/CountCodingLines)
+
+**[CountCodingLines](https://github.com/ktwu01/CountCodingLines)** - Unique-line statistics for MATLAB projects that pre-date version control
+
+Many legacy folders contain multiple versions of the same file. Conventional line-of-code counters inflate totals because they count every repeated line. CountCodingLines removes duplicates at the line level, giving you a realistic measure of distinct code.
+
+**Key Features**: Line-level deduplication, recursive search, configurable roots, plain-text export
+
+### geomaps
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/geomaps)](https://github.com/ktwu01/geomaps)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/geomaps)](https://github.com/ktwu01/geomaps/fork)
+[![GitHub license](https://img.shields.io/github/license/ktwu01/geomaps)](https://github.com/ktwu01/geomaps/blob/master/LICENSE)
+
+**[geomaps](https://github.com/ktwu01/geomaps)** - Python and MATLAB code for drawing scientific maps
+
+Comprehensive toolkit for creating publication-quality geographic visualizations and scientific maps using both Python and MATLAB environments.
+
+**Tech Stack**: Python, MATLAB, Geographic Data Processing
+
+<!-- ### MAT-Code
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/MAT-Code)](https://github.com/ktwu01/MAT-Code)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/MAT-Code)](https://github.com/ktwu01/MAT-Code/fork)
 [![GitHub license](https://img.shields.io/github/license/ktwu01/MAT-Code)](https://github.com/ktwu01/MAT-Code/blob/master/LICENSE)
 
 **[MAT-Code](https://github.com/ktwu01/MAT-Code)** - General MATLAB code collection and utilities
 
-Comprehensive collection of MATLAB functions and scripts for scientific computing, data analysis, and research applications. Features reusable code modules for common computational tasks in atmospheric sciences and signal processing.
+Comprehensive collection of MATLAB functions and scripts for scientific computing, data analysis, and research applications. Features reusable code modules for common computational tasks in atmospheric sciences and signal processing. -->
 
 ---
 

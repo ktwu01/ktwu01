@@ -33,6 +33,17 @@ Also add in English
 
 ## HPC集成项目
 
+### geomaps
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/geomaps)](https://github.com/ktwu01/geomaps)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/geomaps)](https://github.com/ktwu01/geomaps/fork)
+[![GitHub license](https://img.shields.io/github/license/ktwu01/geomaps)](https://github.com/ktwu01/geomaps/blob/master/LICENSE)
+
+**[geomaps](https://github.com/ktwu01/geomaps)** - 用于绘制科学地图的Python和MATLAB代码
+
+使用Python和MATLAB环境创建出版级地理可视化和科学地图的综合工具包。
+
+**技术栈**: Python, MATLAB, 地理数据处理
+
 ### 科学计算工作流
 基于Python的高性能计算环境工作流，与Fortran和C模型集成，提升性能和可扩展性。
 
