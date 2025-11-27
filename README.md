@@ -1,9 +1,9 @@
 <!-- # Koutian "KT" Wu's Technical Skills Matrix 
-[![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01) [![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork) Profile view count: 
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01) [![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork) Profile view count: <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
 -->
 Hey there! Welcome here. How are you? 欢迎来到这儿，很高兴认识你！
 
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md) ![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg) <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md) ![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg) [![Visitor Count](https://clustrmaps.com/map_v2.png?d=fQvKmZbPMctrjCs0jp8rDLqKYPwmQtmFVMiOSl9YUsE&cl=ffffff&w=a&t=tt&co=ffffff&ct=000000)](https://clustrmaps.com/site/1c6il)
 
 This is Koutian "KT" Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></ruby>). I am a Proud Longhorn 🤘 at **UT Austin** from 2024
 
