@@ -51,6 +51,18 @@ NASA FINESST 奖学金申请的完整指南和资源链接。
 
 **技术栈**: MATLAB, Python, IDL, LaTeX, 多源卫星数据处理, 地基观测数据分析
 
+### Tonga 火山风场扰动研究（WACCM-X + 流星雷达）
+
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/Tonga-wind-2022)](https://github.com/ktwu01/Tonga-wind-2022)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/Tonga-wind-2022)](https://github.com/ktwu01/Tonga-wind-2022/fork)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
+使用高分辨率 WACCM-X 模拟（Fortran）与多站点流星雷达观测数据，研究 2022 年汤加火山喷发触发的 MLT 区域水平风扰动，并开展波动传播诊断与时频分析（MATLAB）。
+
+**引用**: Wu, K.; Liu, H.-L.; Yi, W.; Xue, X. (2023), *Perturbations by the 2022 Hunga-Tonga Volcano Eruption in the MLT Region Investigated Using the WACCM-X Simulation and Meteor Radar Observations*, AGU Fall Meeting 2023, Abstract SA33B-2892 · [Abstract](https://ui.adsabs.harvard.edu/abs/2023AGUFMSA33B2892W/abstract)
+
+**项目地址**: [ktwu01/Tonga-wind-2022](https://github.com/ktwu01/Tonga-wind-2022)
+
 ## 核心关注领域
 
 **研究生资源**: 奖学金申请、资助机会、学术写作

@@ -50,6 +50,18 @@ This project documents my first-authored and corresponding-authored review on sp
 
 **Tech Stack**: MATLAB, Python, IDL, Multi-satellite Data Processing, Ground-based Observation Analysis
 
+### Tonga Volcano Wind Perturbations (WACCM-X + Meteor Radars)
+
+[![GitHub stars](https://img.shields.io/github/stars/ktwu01/Tonga-wind-2022)](https://github.com/ktwu01/Tonga-wind-2022)
+[![GitHub forks](https://img.shields.io/github/forks/ktwu01/Tonga-wind-2022)](https://github.com/ktwu01/Tonga-wind-2022/fork)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+
+Investigation of MLT-region wind perturbations triggered by the 2022 Hunga-Tonga eruption using high-resolution WACCM-X simulations (Fortran) and multi-site meteor radar observations, with wave diagnostics and time-frequency analysis (MATLAB).
+
+**Citation**: Wu, K.; Liu, H.-L.; Yi, W.; Xue, X. (2023), *Perturbations by the 2022 Hunga-Tonga Volcano Eruption in the MLT Region Investigated Using the WACCM-X Simulation and Meteor Radar Observations*, AGU Fall Meeting 2023, Abstract SA33B-2892 · [Abstract](https://ui.adsabs.harvard.edu/abs/2023AGUFMSA33B2892W/abstract)
+
+**Repository**: [ktwu01/Tonga-wind-2022](https://github.com/ktwu01/Tonga-wind-2022)
+
 ## Core Focus Areas
 
 **Graduate Student Resources**: Fellowship applications, funding opportunities, academic writing
