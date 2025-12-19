@@ -6,7 +6,7 @@
 ## Featured Projects
 
 ### Awesome Academic CV
-[![GitHub license](https://img.shields.io/github/license/ktwu01/Awesome-Academic-CV?color=blue)](https://github.com/ktwu01/Awesome-Academic-CV/blob/master/LICENSE)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/Awesome-Academic-CV)](https://github.com/ktwu01/Awesome-Academic-CV)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/Awesome-Academic-CV)](https://github.com/ktwu01/Awesome-Academic-CV/fork)
 
@@ -15,7 +15,7 @@ Comprehensive academic CV templates and guidelines for researchers and graduate 
 **Repository**: [ktwu01/Awesome-Academic-CV](https://github.com/ktwu01/Awesome-Academic-CV)
 
 ### NASA FINESST Resources Guide
-[![GitHub license](https://img.shields.io/github/license/ktwu01/NASA-FINESST-Resources-Guide-Links?color=blue)](https://github.com/ktwu01/NASA-FINESST-Resources-Guide-Links/blob/master/LICENSE)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/NASA-FINESST-Resources-Guide-Links)](https://github.com/ktwu01/NASA-FINESST-Resources-Guide-Links)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/NASA-FINESST-Resources-Guide-Links)](https://github.com/ktwu01/NASA-FINESST-Resources-Guide-Links/fork)
 
@@ -26,7 +26,7 @@ Complete guide and resource links for NASA FINESST fellowship applications.
 ### USTC-resource-links
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/USTC-resource-links)](https://github.com/ktwu01/USTC-resource-links)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/USTC-resource-links)](https://github.com/ktwu01/USTC-resource-links/fork)
-[![GitHub license](https://img.shields.io/github/license/ktwu01/USTC-resource-links)](https://github.com/ktwu01/USTC-resource-links/blob/master/LICENSE)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 
 **[USTC-resource-links](https://github.com/ktwu01/USTC-resource-links)** - USTC Academic Resource Collection
 
@@ -36,6 +36,7 @@ Comprehensive collection of academic resources, course materials, and institutio
 
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022)
 [![GitHub forks](https://img.shields.io/github/forks/ktwu01/space-education-2022)](https://github.com/ktwu01/space-education-2022/fork)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![中文](https://img.shields.io/badge/lang-中文-red.svg)](README.CN.md)
 
