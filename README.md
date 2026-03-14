@@ -8,6 +8,12 @@ Profile view count: <img src="https://profile-counter.glitch.me/ktwu01/count.svg
 Hey there! How are you? 欢迎来到这儿，很高兴认识你！
 This is Koutian Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></ruby>).
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=26&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=I+am+a+full+stack+AI+native+developer;I+am+building+agent+applications" alt="Typing SVG" />
+
+<div style="max-width: 600px; margin: 0 auto; word-wrap: break-word;">
+
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md) [![Visitor Count](https://clustrmaps.com/map_v2.png?d=fQvKmZbPMctrjCs0jp8rDLqKYPwmQtmFVMiOSl9YUsE&cl=ffffff&w=a&t=tt&co=ffffff&ct=000000)](https://clustrmaps.com/site/1c6il)
 
 <!-- use https://gh-stats-gen.vercel.app/ to create one dashboard -->
