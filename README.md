@@ -19,7 +19,8 @@ This is Koutian Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></
 <!-- use https://gh-stats-gen.vercel.app/ to create one dashboard -->
 ![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=10)
 <!-- Top Langs: langs_count no more than 14, or langs_count displayed can be less than 10) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=ktwu01&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ktwu01)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktwu01&hide_border=true" height="150" alt="streaks graph" />
 
 <!-- 
 I am …
@@ -85,11 +86,10 @@ Contact me at email: <img src=".assets/email.png" alt="email" width="130" height
 
 </details>
 
-<i>Like the projects below? Please consider following me to help improve!</i>
+<!-- <i>Like the projects below? Please consider following me to help improve!</i> -->
 
  [![Visitor Count](https://clustrmaps.com/map_v2.png?d=fQvKmZbPMctrjCs0jp8rDLqKYPwmQtmFVMiOSl9YUsE&cl=ffffff&w=a&t=tt&co=ffffff&ct=000000)](https://clustrmaps.com/site/1c6il)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktwu01&hide_border=true" height="150" alt="streaks graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktwu01&theme=github&hide_border=true&height=250&radius=8" alt="activity graph" />
 </div>
