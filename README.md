@@ -20,8 +20,6 @@ This is Koutian Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></
 ![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01&layout=compact&hide_progress=true&langs_count=10)
 <!-- Top Langs: langs_count no more than 14, or langs_count displayed can be less than 10) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=ktwu01)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktwu01&hide_border=true" height="150" alt="streaks graph" />
-
 <!-- 
 I am …
 
