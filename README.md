@@ -77,6 +77,8 @@ I am …
 
 ---
 
+📝 **Blog**: [ktwu01.github.io](https://ktwu01.github.io)
+
 Contact me at email: <img src=".assets/email.png" alt="email" width="130" height="15">
 
 [![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01)
