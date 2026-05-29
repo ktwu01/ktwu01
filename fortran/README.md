@@ -56,3 +56,11 @@ Currently expanding modern Fortran standard applications and HPC optimization te
 
 ---
 *Last Updated: June 2025*
+
+<!-- FOLDER-REPOSITORIES:START -->
+## Repository Index
+Generated: 2026-05-28 UTC. Primary language: Fortran. Sorted by newest activity.
+| Repository | Activity | Language | Stars |
+|------------|----------|----------|------:|
+| _(none verified as original work in this category)_ |  |  |  |
+<!-- FOLDER-REPOSITORIES:END -->

@@ -56,3 +56,11 @@ Fortran + C++ + C混合编程演示，展示文件压缩算法实现原理和网
 
 ---
 *最后更新: 2025年6月*
+
+<!-- FOLDER-REPOSITORIES-CN:START -->
+## 仓库索引
+生成时间：2026-05-28 UTC。主要语言为 Fortran。按最近活动时间排序。
+| 仓库 | 活动日期 | 语言 | Stars |
+|------|----------|------|------:|
+| _(none verified as original work in this category)_ |  |  |  |
+<!-- FOLDER-REPOSITORIES-CN:END -->

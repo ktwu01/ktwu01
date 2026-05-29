@@ -86,3 +86,14 @@ HPC集群作业提交与监控的自动化脚本套件，提升研究效率。
 ---
 
 *最后更新: 2025年6月*
+
+<!-- FOLDER-REPOSITORIES-CN:START -->
+## 仓库索引
+生成时间：2026-05-28 UTC。Shell、终端、配置文件和自动化相关仓库。按最近活动时间排序。
+| 仓库 | 活动日期 | 语言 | Stars |
+|------|----------|------|------:|
+| [ktwu01/ktwu01](https://github.com/ktwu01/ktwu01) | 2026-05-28 | Shell | 4 |
+| [ktwu01/compress-video](https://github.com/ktwu01/compress-video) | 2025-12-06 | Shell | 2 |
+| [ktwu01/awesome-zshrc](https://github.com/ktwu01/awesome-zshrc) | 2025-06-07 | Shell | 4 |
+| [ktwu01/awesome-bashrc](https://github.com/ktwu01/awesome-bashrc) | 2025-06-07 | Shell | 3 |
+<!-- FOLDER-REPOSITORIES-CN:END -->
