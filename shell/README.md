@@ -86,3 +86,14 @@ Automated script suite for HPC cluster job submission and monitoring to enhance 
 ---
 
 *Last Updated: June 2025*
+
+<!-- FOLDER-REPOSITORIES:START -->
+## Repository Index
+Generated: 2026-05-28 UTC. Shell, terminal, dotfile, and automation repositories. Sorted by newest activity.
+| Repository | Activity | Language | Stars |
+|------------|----------|----------|------:|
+| [ktwu01/ktwu01](https://github.com/ktwu01/ktwu01) | 2026-05-28 | Shell | 4 |
+| [ktwu01/compress-video](https://github.com/ktwu01/compress-video) | 2025-12-06 | Shell | 2 |
+| [ktwu01/awesome-zshrc](https://github.com/ktwu01/awesome-zshrc) | 2025-06-07 | Shell | 4 |
+| [ktwu01/awesome-bashrc](https://github.com/ktwu01/awesome-bashrc) | 2025-06-07 | Shell | 3 |
+<!-- FOLDER-REPOSITORIES:END -->

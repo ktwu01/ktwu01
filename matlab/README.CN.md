@@ -116,3 +116,13 @@
 ---
 
 *最后更新: 2025年6月*
+
+<!-- FOLDER-REPOSITORIES-CN:START -->
+## 仓库索引
+生成时间：2026-05-28 UTC。主要语言为 MATLAB。按最近活动时间排序。
+| 仓库 | 活动日期 | 语言 | Stars |
+|------|----------|------|------:|
+| [ktwu01/geomaps](https://github.com/ktwu01/geomaps) | 2026-03-18 | MATLAB | 2 |
+| [ktwu01/Meteor-Speed-Variations](https://github.com/ktwu01/Meteor-Speed-Variations) | 2025-12-19 | MATLAB | 3 |
+| [ktwu01/CountCodingLines](https://github.com/ktwu01/CountCodingLines) | 2025-06-12 | MATLAB | 2 |
+<!-- FOLDER-REPOSITORIES-CN:END -->

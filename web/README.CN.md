@@ -143,3 +143,35 @@
 ---
 
 *最后更新: 2025年7月*
+
+<!-- FOLDER-REPOSITORIES-CN:START -->
+## 仓库索引
+生成时间：2026-05-28 UTC。网页、前端、仪表盘、站点和浏览器端相关仓库。按最近活动时间排序。
+| 仓库 | 活动日期 | 语言 | Stars |
+|------|----------|------|------:|
+| [earth-space-ai/Earth-Space-ai-homepage](https://github.com/earth-space-ai/Earth-Space-ai-homepage) | 2026-05-28 | CSS | 1 |
+| [ktwu01/ktwu01.github.io](https://github.com/ktwu01/ktwu01.github.io) | 2026-05-28 | HTML | 3 |
+| [ktwu01/1AI-polish](https://github.com/ktwu01/1AI-polish) | 2026-05-19 | Python | 2 |
+| [ktwu01/sean-xiang-chronicle](https://github.com/ktwu01/sean-xiang-chronicle) | 2026-05-14 | HTML | 7 |
+| [ktwu01/yang-zhenning-wealth-figures](https://github.com/ktwu01/yang-zhenning-wealth-figures) | 2026-05-14 | HTML | 0 |
+| [ktwu01/crypto-dashboard](https://github.com/ktwu01/crypto-dashboard) | 2026-05-08 | TypeScript | 18 |
+| [ScienceIntelligence/ResearchSkills](https://github.com/ScienceIntelligence/ResearchSkills) | 2026-05-04 | JavaScript | 36 |
+| [ktwu01/summer-calculator](https://github.com/ktwu01/summer-calculator) | 2026-04-10 | JavaScript | 2 |
+| [ktwu01/komo520](https://github.com/ktwu01/komo520) | 2026-04-10 | JavaScript | 3 |
+| [ktwu01/komomood](https://github.com/ktwu01/komomood) | 2026-03-30 | JavaScript | 2 |
+| [ktwu01/ideas-shop](https://github.com/ktwu01/ideas-shop) | 2026-03-21 | TypeScript | 2 |
+| [ktwugoat/komo-chronicle](https://github.com/ktwugoat/komo-chronicle) | 2026-03-20 | HTML | 2 |
+| [ktwu01/ai-billion-career](https://github.com/ktwu01/ai-billion-career) | 2026-03-18 | TypeScript | 2 |
+| [LEAD-UTexas/LEAD-UTexas.github.io](https://github.com/LEAD-UTexas/LEAD-UTexas.github.io) | 2026-01-19 | HTML | 3 |
+| [ktwu01/MoSequence26Jan](https://github.com/ktwu01/MoSequence26Jan) | 2026-01-04 | HTML | 0 |
+| [ktwu01/neural-galaxy](https://github.com/ktwu01/neural-galaxy) | 2025-11-28 | JavaScript | 3 |
+| [ktwu01/school-evaluator](https://github.com/ktwu01/school-evaluator) | 2025-11-14 | TypeScript | 2 |
+| [ktwu01/ZuoGuoHuaDiao](https://github.com/ktwu01/ZuoGuoHuaDiao) | 2025-11-14 | JavaScript | 3 |
+| [ktwu01/advisor-calculator](https://github.com/ktwu01/advisor-calculator) | 2025-11-14 | TypeScript | 3 |
+| [ktwu01/VerificationSuccess](https://github.com/ktwu01/VerificationSuccess) | 2025-11-13 | HTML | 2 |
+| [ktwu01/time-coins](https://github.com/ktwu01/time-coins) | 2025-07-23 | JavaScript | 3 |
+| [ktwu01/GMZR](https://github.com/ktwu01/GMZR) | 2025-07-18 | JavaScript | 1 |
+| [ktwu01/academicpages.github.io](https://github.com/ktwu01/academicpages.github.io) | 2025-05-14 | HTML | 3 |
+| [ktwu01/USTC-resource-links](https://github.com/ktwu01/USTC-resource-links) | 2025-04-28 | - | 3 |
+| [ktwu01/perler-beads](https://github.com/ktwu01/perler-beads) | 2025-04-25 | TypeScript | 19 |
+<!-- FOLDER-REPOSITORIES-CN:END -->

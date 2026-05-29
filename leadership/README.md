@@ -87,3 +87,13 @@ This is a detailed repository documenting my student work experiences, including
 ## 🏁 Acknowledgments
 
 Thanks to all the colleagues, classmates, and teachers who trusted and supported me along the way. Student work not only strengthened my professional skills but also shaped my sense of responsibility and working style.
+
+<!-- FOLDER-REPOSITORIES:START -->
+## Repository Index
+Generated: 2026-05-28 UTC. Leadership, student work, career, club, outreach, and service repositories. Sorted by newest activity.
+| Repository | Activity | Language | Stars |
+|------------|----------|----------|------:|
+| [ktwu01/ai-billion-career](https://github.com/ktwu01/ai-billion-career) | 2026-03-18 | TypeScript | 2 |
+| [ktwu01/USTC-Student-Xing-Yun-Poetry-Club](https://github.com/ktwu01/USTC-Student-Xing-Yun-Poetry-Club) | 2025-07-12 | - | 1 |
+| [ktwu01/Student-Work](https://github.com/ktwu01/Student-Work) | 2025-07-01 | - | 3 |
+<!-- FOLDER-REPOSITORIES:END -->

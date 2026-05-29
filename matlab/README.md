@@ -120,3 +120,13 @@ Publications in peer-reviewed journals including Journal of Geophysical Research
 ---
 
 *Last Updated: June 2025*
+
+<!-- FOLDER-REPOSITORIES:START -->
+## Repository Index
+Generated: 2026-05-28 UTC. Primary language: MATLAB. Sorted by newest activity.
+| Repository | Activity | Language | Stars |
+|------------|----------|----------|------:|
+| [ktwu01/geomaps](https://github.com/ktwu01/geomaps) | 2026-03-18 | MATLAB | 2 |
+| [ktwu01/Meteor-Speed-Variations](https://github.com/ktwu01/Meteor-Speed-Variations) | 2025-12-19 | MATLAB | 3 |
+| [ktwu01/CountCodingLines](https://github.com/ktwu01/CountCodingLines) | 2025-06-12 | MATLAB | 2 |
+<!-- FOLDER-REPOSITORIES:END -->

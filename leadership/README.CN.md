@@ -91,3 +91,13 @@
 ## 🏁 致谢
 
 感谢一路上信任我、支持我的同事、同学与老师。学生工作不仅锻炼了我的能力，也塑造了我作为一名工作者的责任意识与执行风格。
+
+<!-- FOLDER-REPOSITORIES-CN:START -->
+## 仓库索引
+生成时间：2026-05-28 UTC。领导力、学生工作、职业发展、社团、外展和服务经历相关仓库。按最近活动时间排序。
+| 仓库 | 活动日期 | 语言 | Stars |
+|------|----------|------|------:|
+| [ktwu01/ai-billion-career](https://github.com/ktwu01/ai-billion-career) | 2026-03-18 | TypeScript | 2 |
+| [ktwu01/USTC-Student-Xing-Yun-Poetry-Club](https://github.com/ktwu01/USTC-Student-Xing-Yun-Poetry-Club) | 2025-07-12 | - | 1 |
+| [ktwu01/Student-Work](https://github.com/ktwu01/Student-Work) | 2025-07-01 | - | 3 |
+<!-- FOLDER-REPOSITORIES-CN:END -->

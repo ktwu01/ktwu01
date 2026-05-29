@@ -80,3 +80,22 @@ Also add in English
 ---
 
 *最后更新: 2025年6月*
+
+<!-- FOLDER-REPOSITORIES-CN:START -->
+## 仓库索引
+生成时间：2026-05-28 UTC。主要语言为 Python 或 Jupyter Notebook。按最近活动时间排序。
+| 仓库 | 活动日期 | 语言 | Stars |
+|------|----------|------|------:|
+| [ktwu01/hao-tokens](https://github.com/ktwu01/hao-tokens) | 2026-05-26 | Python | 3 |
+| [ktwu01/1AI-polish](https://github.com/ktwu01/1AI-polish) | 2026-05-19 | Python | 2 |
+| [ktwu01/MARVIS-EVAL](https://github.com/ktwu01/MARVIS-EVAL) | 2026-05-18 | Python | 1 |
+| [ktwu01/Gibbs-VLA-Overshoot](https://github.com/ktwu01/Gibbs-VLA-Overshoot) | 2026-04-28 | Python | 2 |
+| [ktwu01/AlphaEarthHack](https://github.com/ktwu01/AlphaEarthHack) | 2026-03-09 | Jupyter Notebook | 9 |
+| [ktwu01/TQQQ-ML-trend](https://github.com/ktwu01/TQQQ-ML-trend) | 2025-11-30 | Python | 3 |
+| [ktwu01/hello-2021](https://github.com/ktwu01/hello-2021) | 2025-08-07 | Python | 1 |
+| [ktwu01/hello-2003](https://github.com/ktwu01/hello-2003) | 2025-08-07 | Python | 1 |
+| [ktwu01/X-AI-deep-research](https://github.com/ktwu01/X-AI-deep-research) | 2025-07-05 | Python | 1 |
+| [ktwu01/Snippet-Python](https://github.com/ktwu01/Snippet-Python) | 2025-06-24 | Jupyter Notebook | 2 |
+| [ktwu01/Noah-MP-Evaluation](https://github.com/ktwu01/Noah-MP-Evaluation) | 2025-06-11 | Jupyter Notebook | 3 |
+| [ktwu01/AI-Text-Detector](https://github.com/ktwu01/AI-Text-Detector) | 2025-06-11 | Python | 3 |
+<!-- FOLDER-REPOSITORIES-CN:END -->

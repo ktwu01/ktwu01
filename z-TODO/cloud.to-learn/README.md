@@ -14,3 +14,11 @@ Cloud computing: AWS or Azure or Google Cloud Platform or similar
 - **[Web Portfolio](../web/)** - Interactive Data Visualization
 
 - **[Academic Guide](../academic/)** - Research Resources & Funding Guide
+
+<!-- FOLDER-REPOSITORIES:START -->
+## Repository Index
+Generated: 2026-05-28 UTC. Cloud, deployment, serverless, and hosting repositories. Sorted by newest activity.
+| Repository | Activity | Language | Stars |
+|------------|----------|----------|------:|
+| _(none verified as original work in this category)_ |  |  |  |
+<!-- FOLDER-REPOSITORIES:END -->

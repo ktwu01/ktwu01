@@ -73,3 +73,22 @@ graph TB
 - [查看我的所有 LLM 项目](https://github.com/ktwu01?tab=repositories&q=topic%3Allm)
 
 *最后更新: 2025年7月*
+
+<!-- FOLDER-REPOSITORIES-CN:START -->
+## 仓库索引
+生成时间：2026-05-28 UTC。AI、LLM、Agent、Prompt 和模型相关仓库。按最近活动时间排序。
+| 仓库 | 活动日期 | 语言 | Stars |
+|------|----------|------|------:|
+| [earth-space-ai/Earth-Space-ai-homepage](https://github.com/earth-space-ai/Earth-Space-ai-homepage) | 2026-05-28 | CSS | 1 |
+| [ktwu01/1AI-polish](https://github.com/ktwu01/1AI-polish) | 2026-05-19 | Python | 2 |
+| [ktwu01/MARVIS-EVAL](https://github.com/ktwu01/MARVIS-EVAL) | 2026-05-18 | Python | 1 |
+| [ktwu01/crypto-dashboard](https://github.com/ktwu01/crypto-dashboard) | 2026-05-08 | TypeScript | 18 |
+| [ScienceIntelligence/ResearchSkills](https://github.com/ScienceIntelligence/ResearchSkills) | 2026-05-04 | JavaScript | 36 |
+| [ktwu01/AI-phd-survival-guide](https://github.com/ktwu01/AI-phd-survival-guide) | 2026-04-12 | - | 3 |
+| [ktwu01/ai-billion-career](https://github.com/ktwu01/ai-billion-career) | 2026-03-18 | TypeScript | 2 |
+| [ktwu01/ai_survival_guide](https://github.com/ktwu01/ai_survival_guide) | 2026-03-17 | - | 2 |
+| [ktwu01/neural-galaxy](https://github.com/ktwu01/neural-galaxy) | 2025-11-28 | JavaScript | 3 |
+| [ktwu01/AI-Talent-Inflation](https://github.com/ktwu01/AI-Talent-Inflation) | 2025-11-23 | - | 1 |
+| [ktwu01/X-AI-deep-research](https://github.com/ktwu01/X-AI-deep-research) | 2025-07-05 | Python | 1 |
+| [ktwu01/AI-Text-Detector](https://github.com/ktwu01/AI-Text-Detector) | 2025-06-11 | Python | 3 |
+<!-- FOLDER-REPOSITORIES-CN:END -->

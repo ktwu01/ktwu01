@@ -13,3 +13,11 @@
 - **[Web 作品集](../web/)** - 交互式数据可视化
 
 - **[学术指南](../academic/)** - 研究资源与资助指南
+
+<!-- FOLDER-REPOSITORIES-CN:START -->
+## 仓库索引
+生成时间：2026-05-28 UTC。云服务、部署、Serverless 和托管相关仓库。按最近活动时间排序。
+| 仓库 | 活动日期 | 语言 | Stars |
+|------|----------|------|------:|
+| _(none verified as original work in this category)_ |  |  |  |
+<!-- FOLDER-REPOSITORIES-CN:END -->
