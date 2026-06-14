@@ -93,32 +93,3 @@ Contact me at email: <img src=".assets/email.png" alt="email" width="130" height
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktwu01&theme=github&hide_border=true&height=250&radius=8" alt="activity graph" />
 </div>
-
-<!-- RECENT-REPOSITORIES:START -->
-## Recent Repository Index
-
-Sorted by newest activity, so repositories dated near 2026-05-28 UTC appear first. Full generated list: [repositories.md](./repositories.md).
-
-| Repository | Activity | Language | Folders |
-|------------|----------|----------|---------|
-| [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 2026-05-28 | Python | [python](./python/), [ai-llm](./ai-llm/), [academic](./academic/), [z-TODO/ml-dl.to-learn](./z-TODO/ml-dl.to-learn/) |
-| [ktwu01/ktwu01](https://github.com/ktwu01/ktwu01) | 2026-05-28 | Shell | [shell](./shell/) |
-| [earth-space-ai/Earth-Space-ai-homepage](https://github.com/earth-space-ai/Earth-Space-ai-homepage) | 2026-05-28 | CSS | [web](./web/), [ai-llm](./ai-llm/) |
-| [ktwu01/ktwu01.github.io](https://github.com/ktwu01/ktwu01.github.io) | 2026-05-28 | HTML | [web](./web/) |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 2026-05-27 | TypeScript | [web](./web/), [ai-llm](./ai-llm/), [z-TODO/TypeScript](./z-TODO/TypeScript/) |
-| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | 2026-05-27 | Rust | [shell](./shell/), [ai-llm](./ai-llm/), [z-TODO/Rust](./z-TODO/Rust/) |
-| [NCAR/noahmp](https://github.com/NCAR/noahmp) | 2026-05-26 | Fortran | [fortran](./fortran/), [academic](./academic/), [z-TODO/hpc.to-learn](./z-TODO/hpc.to-learn/) |
-| [ktwu01/ChatLab](https://github.com/ktwu01/ChatLab) | 2026-05-26 | TypeScript | [web](./web/), [ai-llm](./ai-llm/), [z-TODO/TypeScript](./z-TODO/TypeScript/) |
-| [ktwu01/hao-tokens](https://github.com/ktwu01/hao-tokens) | 2026-05-26 | Python | [python](./python/) |
-| [TaciteAI/auto-essay-review-loop](https://github.com/TaciteAI/auto-essay-review-loop) | 2026-05-25 | Python | [python](./python/), [academic](./academic/) |
-| [ktwu01/nature-skills](https://github.com/ktwu01/nature-skills) | 2026-05-24 | Python | [python](./python/) |
-| [ktwu01/1AI-polish](https://github.com/ktwu01/1AI-polish) | 2026-05-19 | Python | [python](./python/), [web](./web/), [ai-llm](./ai-llm/) |
-| [ktwu01/dbskill](https://github.com/ktwu01/dbskill) | 2026-05-18 | Shell | [shell](./shell/), [z-TODO/databases](./z-TODO/databases/) |
-| [ktwu01/edgetunnel](https://github.com/ktwu01/edgetunnel) | 2026-05-18 | JavaScript | [web](./web/), [z-TODO/JavaScript](./z-TODO/JavaScript/) |
-| [ktwu01/MARVIS-EVAL](https://github.com/ktwu01/MARVIS-EVAL) | 2026-05-18 | Python | [python](./python/), [ai-llm](./ai-llm/), [z-TODO/ml-dl.to-learn](./z-TODO/ml-dl.to-learn/) |
-| [ktwu01/spec-kit](https://github.com/ktwu01/spec-kit) | 2026-05-15 | Python | [python](./python/) |
-| [ktwu01/kimi-cli](https://github.com/ktwu01/kimi-cli) | 2026-05-15 | Python | [python](./python/), [ai-llm](./ai-llm/) |
-| [ut01/elon-musk-chronicle](https://github.com/ut01/elon-musk-chronicle) | 2026-05-15 | HTML | [web](./web/) |
-| [ktwu01/sean-xiang-chronicle](https://github.com/ktwu01/sean-xiang-chronicle) | 2026-05-14 | HTML | [web](./web/) |
-| [ktwu01/yang-zhenning-wealth-figures](https://github.com/ktwu01/yang-zhenning-wealth-figures) | 2026-05-14 | HTML | [web](./web/) |
-<!-- RECENT-REPOSITORIES:END -->
