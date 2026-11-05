@@ -12,6 +12,10 @@ This is Koutian Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></
 
 ## Now
 
+  <p align="center">
+  <a href="https://huggingface.co/papers/date/2026-09-14"><img src="https://raw.githubusercontent.com/ktwu01/benchmark-radar/main/site/assets/hf-paper-of-the-day.svg" alt="Hugging Face: #1 Paper of the Day, September 14, 2026" width="240"></a>
+  </p>
+
 - **[Benchmark Radar](https://benchmark-radar.org)**, a living database of AI benchmark records
 
   <p align="center">
@@ -24,9 +28,6 @@ This is Koutian Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></
   <img src="https://raw.githubusercontent.com/ktwu01/benchmark-radar/main/assets/researchers.svg" alt="Institutions whose researchers use Benchmark Radar: Google, Amazon, AWS, IBM, ByteDance, Carnegie Mellon, Harvard, MIT, NUS, Auckland, Xtracta, Alibaba, Tencent, Tencent Hunyuan, Qwen, StepFun, Kuaishou, Zhihu, Tsinghua, SJTU" />
   </p>
 
-  <p align="center">
-  <a href="https://huggingface.co/papers/date/2026-09-14"><img src="https://raw.githubusercontent.com/ktwu01/benchmark-radar/main/site/assets/hf-paper-of-the-day.svg" alt="Hugging Face: #1 Paper of the Day, September 14, 2026" width="240"></a>
-  </p>
 
 - **[Provenance paper](https://arxiv.org/abs/2610.28655)**, NeurIPS 2026 AI-Native Academia Workshop, arXiv:2610.28655
 - Building **[Tacite.AI](https://tacite.ai)**
