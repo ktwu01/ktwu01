@@ -1,10 +1,3 @@
-<!-- # Koutian "KT" Wu's Technical Skills Matrix 
-[![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01)
-[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork)
-Profile view count: <img src="https://profile-counter.glitch.me/ktwu01/count.svg?" width="130" height="15">
-![cc-by-nc-nd](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg) 
--->
-
 <div align="center">
 Hey there! 很高兴认识你！
 
@@ -12,27 +5,42 @@ This is Koutian Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=26&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=I+am+a+full+stack+AI+native+developer;I+am+building+agent+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=26&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=I+am+automating+scientific+research;I+am+building+agent+applications" alt="Typing SVG" />
+</div>
 
-<div style="max-width: 600px; margin: 0 auto; word-wrap: break-word;">
+23 yo UT-Austin PhD-dropout researcher, automating sci research. B.S. USTC Space Physics.
 
-<!-- use https://gh-stats-gen.vercel.app/ to create one dashboard -->
-![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01)
-<!-- Top Langs: langs_count no more than 14, or langs_count displayed can be less than 10) -->
+## Now
+
+- **[Benchmark Radar](https://benchmark-radar.org)**, a living database of AI benchmark records
+
+  <a href="https://benchmark-radar.org/"><img alt="Benchmarks collected" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbenchmark-radar.org%2Fdata%2Frecords-badge.json&style=for-the-badge"></a> [![GitHub stars](https://img.shields.io/github/stars/ktwu01/benchmark-radar?style=social)](https://github.com/ktwu01/benchmark-radar)
+
+  Researchers and evaluation engineers from these institutions use Benchmark Radar for benchmark discovery and score tracking:
+
+  <img src="https://raw.githubusercontent.com/ktwu01/benchmark-radar/main/assets/researchers.svg" alt="Institutions whose researchers use Benchmark Radar: Google, Amazon, AWS, IBM, ByteDance, Carnegie Mellon, Harvard, MIT, NUS, Auckland, Xtracta, Alibaba, Tencent, Tencent Hunyuan, Qwen, StepFun, Kuaishou, Zhihu, Tsinghua, SJTU" />
+
+  <a href="https://huggingface.co/papers/date/2026-09-14"><img src="https://raw.githubusercontent.com/ktwu01/benchmark-radar/main/site/assets/hf-paper-of-the-day.svg" alt="Hugging Face: #1 Paper of the Day, September 14, 2026" width="360"></a>
+
+- **[Provenance paper](https://arxiv.org/abs/2610.28655)**, NeurIPS 2026 AI-Native Academia Workshop, arXiv:2610.28655
+- Building **[Tacite.AI](https://tacite.ai)**
+- **[Contributor to Git's source code](https://github.com/git/git/commit/0bf506efd40251ebdc9ed829d8bb90d879d2c7aa)**
+
+---
+
+📝 **Blog**: [ktwu01.github.io](https://ktwu01.github.io)
+
+<a href="https://scholar.google.com/citations?user=s9w1k-cAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a> <a href="https://x.com/ktwu01"><img alt="X" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"></a> <a href="https://www.linkedin.com/in/ktwu01"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+Contact me at email: <img src=".assets/email.png" alt="email" width="130" height="15">
+
+![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ktwu01)
-<!-- 
-I am …
-
-- 🎓 Proud Longhorn from **UT Austin** '29 🤘
-- 👨‍💻 Former Front-end Engineer Intern **@ [SHEIN](https://github.com/sheinsight)**
-- 👨‍💻 Former Front-end Developer **@ [Hokdo](https://github.com/hokdo)**
-
--->
 
 <details>
-<summary>
+<summary>Earlier work and full stack</summary>
 
-## Click here to view my core technical stack
 ## 🛠️ Skills & Technologies
 
 <div align="center">
@@ -51,8 +59,6 @@ I am …
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
 </div>
-
-</summary>
 
 | Technology | Portfolio | Expertise |
 |------------|-----------|-----------|
@@ -75,21 +81,10 @@ I am …
 - 💻 **Computing**: HPC clusters (TACC, NCAR), parallel processing
 - 📈 **Publications**: Code and data for peer-reviewed research
 
----
-
-📝 **Blog**: [ktwu01.github.io](https://ktwu01.github.io)
-
-Contact me at email: <img src=".assets/email.png" alt="email" width="130" height="15">
-
-[![GitHub stars](https://img.shields.io/github/stars/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01)
-[![GitHub forks](https://img.shields.io/github/forks/ktwu01/ktwu01)](https://github.com/ktwu01/ktwu01/fork)
-
-</details>
-
-<!-- <i>Like the projects below? Please consider following me to help improve!</i> -->
-
- [![Visitor Count](https://clustrmaps.com/map_v2.png?d=fQvKmZbPMctrjCs0jp8rDLqKYPwmQtmFVMiOSl9YUsE&cl=ffffff&w=a&t=tt&co=ffffff&ct=000000)](https://clustrmaps.com/site/1c6il)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktwu01&theme=github&hide_border=true&height=250&radius=8" alt="activity graph" />
 </div>
+
+</details>
