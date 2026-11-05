@@ -14,13 +14,19 @@ This is Koutian Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></
 
 - **[Benchmark Radar](https://benchmark-radar.org)**, a living database of AI benchmark records
 
-  <a href="https://benchmark-radar.org/"><img alt="Benchmarks collected" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbenchmark-radar.org%2Fdata%2Frecords-badge.json&style=for-the-badge"></a> [![GitHub stars](https://img.shields.io/github/stars/ktwu01/benchmark-radar?style=social)](https://github.com/ktwu01/benchmark-radar)
+  <p align="center">
+  <a href="https://benchmark-radar.org/"><img alt="Benchmarks collected" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fbenchmark-radar.org%2Fdata%2Frecords-badge.json&style=for-the-badge"></a> <a href="https://github.com/ktwu01/benchmark-radar"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ktwu01/benchmark-radar?style=social"></a>
+  </p>
 
   Researchers and evaluation engineers from these institutions use Benchmark Radar for benchmark discovery and score tracking:
 
+  <p align="center">
   <img src="https://raw.githubusercontent.com/ktwu01/benchmark-radar/main/assets/researchers.svg" alt="Institutions whose researchers use Benchmark Radar: Google, Amazon, AWS, IBM, ByteDance, Carnegie Mellon, Harvard, MIT, NUS, Auckland, Xtracta, Alibaba, Tencent, Tencent Hunyuan, Qwen, StepFun, Kuaishou, Zhihu, Tsinghua, SJTU" />
+  </p>
 
-  <a href="https://huggingface.co/papers/date/2026-09-14"><img src="https://raw.githubusercontent.com/ktwu01/benchmark-radar/main/site/assets/hf-paper-of-the-day.svg" alt="Hugging Face: #1 Paper of the Day, September 14, 2026" width="360"></a>
+  <p align="center">
+  <a href="https://huggingface.co/papers/date/2026-09-14"><img src="https://raw.githubusercontent.com/ktwu01/benchmark-radar/main/site/assets/hf-paper-of-the-day.svg" alt="Hugging Face: #1 Paper of the Day, September 14, 2026" width="240"></a>
+  </p>
 
 - **[Provenance paper](https://arxiv.org/abs/2610.28655)**, NeurIPS 2026 AI-Native Academia Workshop, arXiv:2610.28655
 - Building **[Tacite.AI](https://tacite.ai)**
@@ -30,13 +36,19 @@ This is Koutian Wu (<ruby>吴叩天<rp>(</rp><rt>Wú Kòu Tiān</rt><rp>)</rp></
 
 📝 **Blog**: [ktwu01.github.io](https://ktwu01.github.io)
 
+<p align="center">
 <a href="https://scholar.google.com/citations?user=s9w1k-cAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a> <a href="https://x.com/ktwu01"><img alt="X" src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white"></a> <a href="https://www.linkedin.com/in/ktwu01"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 Contact me at email: <img src=".assets/email.png" alt="email" width="130" height="15">
 
-![Koutian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktwu01\&rank_icon=github)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ktwu01&rank_icon=github" alt="Koutian Wu's GitHub stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ktwu01)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ktwu01" alt="GitHub Streak" />
+</p>
 
 <details>
 <summary>Earlier work and full stack</summary>
@@ -81,7 +93,9 @@ Contact me at email: <img src=".assets/email.png" alt="email" width="130" height
 - 💻 **Computing**: HPC clusters (TACC, NCAR), parallel processing
 - 📈 **Publications**: Code and data for peer-reviewed research
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwu01" alt="Top Langs" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktwu01&theme=github&hide_border=true&height=250&radius=8" alt="activity graph" />
